@@ -74,5 +74,5 @@ Power Query: Data cleaning and schema transformation.
 DAX: Advanced measures for KPIs and gauge tracking.
 
 # Dashboard 
-![Dashboard Overview](./FOLDER_NAME/Student Enrollment & Revenue Analytics Dashboard.png)
+![Dashboard Overview](Student Enrollment & Revenue Analytics Dashboard.png)
 
