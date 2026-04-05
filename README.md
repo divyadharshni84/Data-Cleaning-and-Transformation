@@ -72,3 +72,7 @@ Power BI Desktop: Entire ETL, Modeling, and Visualization.
 Power Query: Data cleaning and schema transformation.
 
 DAX: Advanced measures for KPIs and gauge tracking.
+
+# Dashboard 
+Student Enrollment & Revenue Analytics Dashboard.png
+
